@@ -1,5 +1,6 @@
 # Kalifix
 ## Fix Kali Linux Wifi/Ethernet connected but no internet access issue
+### Execute the following commands in root terminal of your PC
 
 ┌──(root㉿kali)-[~]
 └─# ping google.com
